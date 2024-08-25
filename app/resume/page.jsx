@@ -54,6 +54,38 @@ const experience = {
   title: "My experience",
   description:
     "Boasting rich e-commerce experience, including 2 years of founding a cross-border e-commerce startup.",
+  items: [
+    {
+      company: "Hangzhou Baishe E-Commerce Ltd.",
+      position: "Co-Founder",
+      duration: "2020 – 2022",
+    },
+    {
+      company: "Hangzhou Chaxiangji Network Technology Co., Ltd.",
+      position: "Front-End Developer ",
+      duration: "2017 – 2019",
+    },
+  ],
+};
+
+// education data
+const education = {
+  icon: "/assets/resume/cap.svg",
+  title: "My education",
+  description:
+    "Boasting rich e-commerce experience, including 2 years of founding a cross-border e-commerce startup.",
+  items: [
+    {
+      Institution: "Auckland University of Technology.",
+      degree: "Master of Computer and Information Sciences",
+      duration: "2023 – 2024",
+    },
+    {
+      Institution: "Zhejiang Gongshang University",
+      position: "Bachelor of E-Commerce & Bachelor of Japanese ",
+      duration: "2011 – Dec 2015",
+    },
+  ],
 };
 
 const Resume = () => {
