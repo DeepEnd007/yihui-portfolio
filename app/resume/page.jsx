@@ -88,6 +88,47 @@ const education = {
   ],
 };
 
+// skills data
+const skills = {
+  title: "My skills",
+  description:
+    "Proficient in front-end web development, code debugging, and data modeling using tools like React, JavaScript, with expertise in machine learning, deep learning, and agile workflows.",
+  skillList: [
+    {
+      icon: <FaHtml5 />,
+      name: "html5",
+    },
+    {
+      icon: <FaCss3 />,
+      name: "css3",
+    },
+    {
+      icon: <FaJs />,
+      name: "javascript",
+    },
+    {
+      icon: <FaReact />,
+      name: "react.js",
+    },
+    {
+      icon: <siTailwindcss />,
+      name: "tailwind.css",
+    },
+    {
+      icon: <siNextdojs />,
+      name: "next.js",
+    },
+    {
+      icon: <FaFigma />,
+      name: "figma",
+    },
+    {
+      icon: <FaPython />,
+      name: "python",
+    },
+  ],
+};
+
 const Resume = () => {
   return <div>resume page</div>;
 };
