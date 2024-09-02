@@ -36,7 +36,7 @@ const education = {
   icon: "/assets/resume/cap.svg",
   title: "My education",
   description:
-    "With a strong foundation in AI algorithms, machine learning, and deep learning, I have honed my skills in data modeling, predictive analysis, and web development. My recent work includes building a sentiment-enhanced hybrid model for cryptocurrency price prediction, achieving superior accuracy, and developing a melanoma detection app using React Native. I am proficient in tools like Python (PyTorch, NumPy, Pandas), SQL, ETL, and data warehousing, which have allowed me to tackle complex data challenges effectively.",
+    "With a Master's in Computer and Information Sciences from Auckland University of Technology, graduating with First Class Honours, and a dual Bachelor's in E-Commerce and Japanese from Zhejiang Gongshang University, I possess a strong academic foundation in technology, data science, and project management.",
   items: [
     {
       institution: "Auckland University of Technology.",

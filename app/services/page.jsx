@@ -7,28 +7,28 @@ const services = [
     num: "01",
     title: "Web Development",
     description:
-      "Responsible for designing and developing the front-end interface of the company's e-commerce",
+      "Crafting responsive and dynamic web applications using modern front-end (React, JS, Tailwind) and back-end technologies (Django, PHP) to bring your ideas to life.",
     href: "",
   },
   {
     num: "02",
     title: "UI/UX Design",
     description:
-      "Responsible for designing and developing the front-end interface of the company's e-commerce",
+      "Designing intuitive and visually engaging user interfaces with tools like Figma and Photoshop, ensuring seamless user experiences.",
     href: "",
   },
   {
     num: "03",
     title: "Agile Project Management",
     description:
-      "Responsible for designing and developing the front-end interface of the company's e-commerce",
+      "Expertly managing projects using Scrum, Kanban, XP, and Lean methodologies to deliver high-quality results efficiently and effectively",
     href: "",
   },
   {
     num: "04",
     title: "Data Modelling",
     description:
-      "Responsible for designing and developing the front-end interface of the company's e-commerce",
+      "Leveraging Python, SQL, and AI algorithms to build, train, and optimize machine learning models that unlock the full potential of your data",
     href: "",
   },
 ];
