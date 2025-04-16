@@ -21,14 +21,14 @@ const services = [
     num: "03",
     title: "Agile Project Management",
     description:
-      "Expertly managing projects using Scrum, Kanban, XP, and Lean methodologies to deliver high-quality results efficiently and effectively",
+      "Expertly managing projects using Scrum, Kanban, XP, and Lean methodologies to deliver high-quality results efficiently and effectively.",
     href: "",
   },
   {
     num: "04",
     title: "Data Modelling",
     description:
-      "Leveraging Python, SQL, and AI algorithms to build, train, and optimize machine learning models that unlock the full potential of your data",
+      "Leveraging Python, SQL, and AI algorithms to build, train, and optimize machine learning models that unlock the full potential of your data.",
     href: "",
   },
 ];
