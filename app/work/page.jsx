@@ -27,7 +27,7 @@ const projects = [
       { name: "HTML 5" },
     ],
     image: "/assets/work/thumb1.png",
-    live: "https://kanban-task-management-xi.vercel.app/",
+    live: "https://kanban.maxhu.fun/",
     github: "https://github.com/DeepEnd007/kanban_task_management",
   },
   {
@@ -60,7 +60,7 @@ const projects = [
       { name: "Responsive" },
     ],
     image: "/assets/work/thumb3.png",
-    live: "https://menu-rose-sigma.vercel.app/",
+    live: "https://menu.maxhu.fun/",
     github: "https://github.com/DeepEnd007/restaurant",
   },
 ];
